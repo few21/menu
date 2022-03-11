@@ -1,11 +1,7 @@
 
 table, th, td, tr {
 	border: 1px solid black;
-	align: center;
-	
-	
-	
-	
+	text-align: center;
 	}
 
 h1 {
@@ -18,7 +14,7 @@ table {
 	font-size:20px;
 	}
 
-.right{
+.center{
 	text-align: center;
 	float: center;
 	font-size: 30px;
