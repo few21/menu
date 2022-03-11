@@ -17,3 +17,9 @@ h2 {
 table {
 	font-size:20px;
 	}
+
+.right{
+	text-align: center;
+	float: center;
+	font-size: 30px;
+}
